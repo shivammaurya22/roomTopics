@@ -1,2 +1,0 @@
-# roomTopics
-Django project 
